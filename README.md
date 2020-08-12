@@ -23,7 +23,7 @@ Do you have books stacked up on your shelves catching dust or are you in your fi
 <p><b>Step 2: </b>You can search for the book you want by Book Title, Book Author, Department, Semester/Year and Subject Code.</p>
 <p><b>Step 3: </b>The book that you searched for will be displayed with the contact details of the seller with whom you can negotiate further.</p>
 
-<h1>Creators</h1>
+<h1>Creator</h1>
 <hr>
 <h2><tt><b>Gopika Murali</b></tt></h2>
 <p><i>Government Model Engineering College, Kochi</i></p>

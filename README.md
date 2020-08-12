@@ -29,6 +29,3 @@ Do you have books stacked up on your shelves catching dust or are you in your fi
 <p><i>Government Model Engineering College, Kochi</i></p>
 <p><em>Full Stack Web Developer</em></p>
 <hr>
-<h2><tt><b>Arundhathi Janardhanan</b></tt></h2>
-<p><i>Government Model Engineering College, Kochi</i></p>
-<p><em>Full Stack Web Developer</em></p>
